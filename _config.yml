@@ -3,12 +3,12 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "AYuan"
+name:               "NT"
 
 
 
 author:
-  name:             AYuan
+  name:             NT
   facebook:         AYuan
   twitter:          AYuan
   github:           AAYuan
@@ -27,8 +27,8 @@ disqus:
 
 # URL
 #url:                "https://AAYuan.github.io" # the base hostname & protocol for your site
-url:                "http://AAYuan.github.io" # use this url when develop
-baseurl:            "/AYuan.github.io" # the subpath of your site, e.
+url:                "http://blog" # use this url when develop
+baseurl:            "/blog" # the subpath of your site, e.
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
