@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="063d385d-06b2-4f0a-bfce-2506c0ff6986" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14628621714939.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14643326121905.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2014-12-01-CreateExperience.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2015-07-25-taste.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2015-08-15-HowToBulidBlog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2015-09-01-WebNotes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2015-10-20-MajorStudyPlan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2015-10-24-cocoaPods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2015-11-15-IBMMainFrameCompetition.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2015-12-09-EmotionNote.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-02-24-SimpleSum2015.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-03-15-iOSUI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-03-24-iOSLearning.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-04-15-iOSProgramming.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-04-24-HowToStudy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-05-01-April.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-05-10-HelloMWeb.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-05-10-comipler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-05-14-iOS-Localizable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-05-29-Reread.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-06-05-connectRaspberryPi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-06-10-RM.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-07-10-Vim.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-07-17-arc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-07-19-iterm2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-08-07-Basic-Linux.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-08-13-Kindle-Reset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-08-13-Xcode-Command-Tool.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-08-13-jekyll-wrong.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-08-14-git-alias.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-iOSYoga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Book.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Human.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Life.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Life_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PowerfulWords.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The-Student-Writer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/all_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/all_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/all_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/atom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/choose.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douban-intern.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iOS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iOSDevRecord.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iOS_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/poet-MyLearningProcess/time.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/Audience.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/assignment.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/freewrite.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/ideas.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/narrowTopic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/outline.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/outlineTree.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/process.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/temp_bash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/topic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14607996200348/writePattern.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14616875454899/Color1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14616875454899/Color_Sail___Design_Seeds.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14616875454899/Color_Set___Design_Seeds.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14616875454899/Info_plist7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14616875454899/Simulator Screen Shot 2016年5月13日 下午1.47.42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14616875454899/nav_problem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628409291084/Aho_-_Compilers_-_Principles__Techiniques__Tools_2nd__pdf（第_164_页，共_1_038_页）.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628409291084/NFA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628409291084/NFA2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628409291084/NFA_table.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628409291084/Operate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628409291084/regulerExp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628621715071/1T0195N7-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628621715071/Swift_-_Overview_-_Apple_Developer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628621715071/Xcode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628621715071/Xcode_Keyboard_Shortcuts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628621715071/iTunes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628621715071/iTunesEdu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628621715331/package.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/DoucmentExtension.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/MWeb-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/MWeb-Setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/MWeb-WebGen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/MWeb-date.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/MWeb-edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/MWeb-import.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/Meb-classify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/class.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/偏好设置3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14628758572486/设置2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Editor_和_Menubar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/GuitarFere.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/InfoPlist_strings4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Info_plist1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Info_plist2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Info_plist7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Info_plist8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Main_storyboard1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Main_storyboard3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/Main_strings2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/genstrings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/genstringsSting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/location3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/zh-Hans_xliff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14632150485486/截屏16_5_15_下午5_47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14634473408769/Chapter4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14643326121905/devices.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14643326121905/iTunes_Connect.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14643326121905/symbol_crash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14643326121905/temp_bash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/树莓派连接1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/树莓派连接2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/树莓派连接3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/树莓派连接4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14650561718675/树莓派连接5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14655493510316/Chrome_远程桌面.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14670280497426/14670285568068.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14670280497426/https___zh_wikipedia_org_wiki_ALGOL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14670280497426/编译原理中文版_pdf（第_22_页，共_540_页）.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14670280497426/编译器.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14670280497426/解释器.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14688890722747/14710754102613.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14688890722747/Preferences.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14695432218849/Bootcamp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14695432218849/iOS_developing_from_Beginning_to_Distribution.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14695432218849/iOS_developing_from_Beginning_to_Distribution_dev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14697765791161/JavaScript.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14710617743695/kindle_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14710617743695/kindle_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14710617743695/kindle_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14710617743695/screenshot_2016_08_13T11_34_38+0800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14711406961909/14711407694437.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/programminglanguage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/words.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/avatar.jpg" afterPath="$PROJECT_DIR$/img/avatar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/14650561718675/Pi_2_Model_B.png" afterPath="$PROJECT_DIR$/media/14650561718675/Pi_2_Model_B.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/14655493510316/Chrome.png" afterPath="$PROJECT_DIR$/media/14655493510316/Chrome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14711002551177.html" afterPath="$PROJECT_DIR$/14711002551177.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all.html" afterPath="$PROJECT_DIR$/all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all_1.html" afterPath="$PROJECT_DIR$/all_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives.html" afterPath="$PROJECT_DIR$/archives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="blog.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="81.23529">
+              <caret line="113" column="57" selection-start-line="113" selection-start-column="43" selection-end-line="113" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="180" column="60" selection-start-line="180" selection-start-column="60" selection-end-line="180" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archives.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/archives.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.1764705">
+              <caret line="202" column="48" selection-start-line="202" selection-start-column="48" selection-end-line="202" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-210.0">
+              <caret line="336" column="0" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14711002551177.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14711002551177.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5137457">
+              <caret line="218" column="27" selection-start-line="218" selection-start-column="27" selection-end-line="218" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/all.html" />
+        <option value="$PROJECT_DIR$/all_4.html" />
+        <option value="$PROJECT_DIR$/all_1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/archives.html" />
+        <option value="$PROJECT_DIR$/14711002551177.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="063d385d-06b2-4f0a-bfce-2506c0ff6986" name="Default" comment="" />
+      <created>1479835099109</created>
+      <option name="number" value="Default" />
+      <updated>1479835099109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="730" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.215625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="347" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="598" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="180" column="60" selection-start-line="180" selection-start-column="60" selection-end-line="180" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14711002551177.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="283" column="53" selection-start-line="283" selection-start-column="53" selection-end-line="283" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-210.0">
+          <caret line="336" column="0" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1764705">
+          <caret line="202" column="48" selection-start-line="202" selection-start-column="48" selection-end-line="202" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="180" column="60" selection-start-line="180" selection-start-column="60" selection-end-line="180" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="81.23529">
+          <caret line="113" column="57" selection-start-line="113" selection-start-column="43" selection-end-line="113" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14711002551177.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5137457">
+          <caret line="218" column="27" selection-start-line="218" selection-start-column="27" selection-end-line="218" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
