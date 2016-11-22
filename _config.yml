@@ -1,0 +1,85 @@
+# # # # # # # # # # # # #
+#   K i k o - p l u s   #
+# # # # # # # # # # # # #
+
+# Basic
+name:               "AYuan"
+
+
+
+author:
+  name:             AYuan
+  facebook:         AYuan
+  twitter:          AYuan
+  github:           AAYuan
+  linkedin:         AYuan
+  medium:           
+  tumblr:           
+  email:            ayuan_lty@outlook.com
+
+# Google-analytics
+google-analytics:
+  id:               ""
+
+# Disqus
+disqus:
+  id:               "your-id"
+
+# URL
+#url:                "https://AAYuan.github.io" # the base hostname & protocol for your site
+url:                "http://AAYuan.github.io" # use this url when develop
+baseurl:            "/AYuan.github.io" # the subpath of your site, e.
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Asia/Beijing
+permalink:          /:year-:month-:day/:title/
+
+# Pagination
+paginate:           5
+paginate_path:      /page:num/
+
+# Markdown
+markdown:           kramdown
+kramdown:
+  imput:            GFM
+
+# Navigation
+nav:
+  - name:           "About"
+    url:            "/about"
+  - name:           "Archive"
+    url:            "/archive"
+  - name:           "Tags"
+    url:            "/tags"
+  - name:           "Github"
+    url:            "https://github.com/AAYuan"
+
+
+
+# Sass
+sass:
+  sass_dir:         _sass
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+gems:
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+exclude:            [vendor]
