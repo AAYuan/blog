@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>
     
-  Azure Yu
+  自动引用计数（ Auto Reference Count, ARC） - Azure Yu
   
   </title>
-  <meta name="keywords" content="树莓派 校园网 无显示器 无路由器" />
-  <meta name="description" content="校园网无路由器无显示器情况下使用树莓派" />
+  
+  
   <link href="atom.xml" rel="alternate" title="Azure Yu" type="application/atom+xml">
     <link rel="stylesheet" href="asset/css/foundation.min.css" />
     <link rel="stylesheet" href="asset/css/docs.css" />
@@ -102,113 +102,41 @@
        
 
  <script type="text/javascript">
-	$(function(){
-		$('#menu_item_index').addClass('is_active');
-	});
+  $(function(){
+    $('#menu_item_index').addClass('is_active');
+  });
 </script>
+
 <div class="row">
-	<div class="large-8 medium-8 columns">
-		<div class="markdown-body home-categories">
-		
-			<div class="article">
-                <a class="clearlink" href="douban-intern.html">
-                
-                  <div class="f-img"><img src="http://7xle3b.com1.z0.glb.clouddn.com/QRCODE.jpg" /></div>
-                
-                  <h1>豆蔻年华 与你为瓣——在豆瓣实习</h1>
-                  <div class="a-content">
-                      
-                      <div class="a-content-text">
-                        
-                        	<blockquote>
-<p>豆瓣在乎你的工作，你一定也在意吧。还记得你上学第一天吗？那天早上你遇到了什么样的人，同学、老师&hellip;&hellip; 在豆瓣的实习生活，可能是你人生又一个重要的第一天，你又将遇到些什么样的人，开始什么样的工作和生活。在这里是新的起点，这段经历你不只是一个实习生。——<a href="https://jobs.douban.com/jobs/intern/">工作在豆瓣</a></p>
-</blockquote>
+  <div class="large-8 medium-8 columns">
+      <div class="markdown-body article-wrap">
+       <div class="article">
+          
+          <h1>自动引用计数（ Auto Reference Count, ARC）</h1>
+     
+        <div class="read-more clearfix">
+          <span class="date">2016/7/17</span>
 
-<p><br></p>
+          <span>posted in&nbsp;</span> 
+          
+              <span class="posted-in"><a href='iOS.html'>iOS</a></span>
+          
+              <span class="posted-in"><a href='Tech.html'>Tech</a></span>
+           
+         
+          <span class="comments">
+            
+              <a href="2016-07-17-arc.html#disqus_thread">comments</a>
+            
 
-<h2 id="toc_0">缘起</h2>
+            
+          </span>
 
-<blockquote>
-<p><a href="https://blog.douban.com/douban/2016/02/16/3099/">除了一个小秘密，我只是一个极其平凡的人。</a></p>
-</blockquote>
-
-<p>一次在朋友圈看到豆瓣的影像诗，心生好感。</p>
-
-
-                        
-                      </div>
-                  </div>
-                </a>
-                <div class="read-more clearfix">
-                  <div class="more-left left">
-                   <a href="douban-intern.html">Read more</a>&nbsp;&nbsp; 
-                    <span class="date">2016/9/1</span>
-                    <span>posted in&nbsp;</span> 
-          				  
-          					    <span class="posted-in"><a href='Life.html'>Life</a></span>
-          				  
-          					    <span class="posted-in"><a href='2016.html'>2016</a></span>
-          				   
-                  </div>
-                  <div class="more-right right">
-                  <span class="comments">
-                      
-                        <a href="douban-intern.html#disqus_thread">comments</a>
-                      
-
-                       
-                  </span>
-                  </div>
-                </div>
-              </div><!-- article -->
-        
-			<div class="article">
-                <a class="clearlink" href="14711002551177.html">
-                
-                  <h1>Technology Biscuit</h1>
-                  <div class="a-content">
-                      
-                      <div class="a-content-text">
-                        
-                        	<p>文章就像精神食粮，饕餮大餐的书籍吃多了，偶尔来点小饼干也不错。</p>
-
-<p>所以这里烹饪的文章多短篇，记录日常开发中的配置、工具使用或问题解决等等。</p>
-
-
-                        
-                      </div>
-                  </div>
-                </a>
-                <div class="read-more clearfix">
-                  <div class="more-left left">
-                   <a href="14711002551177.html">Read more</a>&nbsp;&nbsp; 
-                    <span class="date">2016/8/13</span>
-                    <span>posted in&nbsp;</span> 
-          				  
-          					    <span class="posted-in"><a href='Tech.html'>Tech</a></span>
-          				   
-                  </div>
-                  <div class="more-right right">
-                  <span class="comments">
-                      
-                        <a href="14711002551177.html#disqus_thread">comments</a>
-                      
-
-                       
-                  </span>
-                  </div>
-                </div>
-              </div><!-- article -->
-        
-			<div class="article">
-                <a class="clearlink" href="2016-07-17-arc.html">
-                
-                  <h1>自动引用计数（ Auto Reference Count, ARC）</h1>
-                  <div class="a-content">
-                      
-                      <div class="a-content-text">
-                        
-                        	<blockquote>
+        </div>
+      </div><!-- article -->
+      
+      <div class="article-content">
+      <blockquote>
 <p>2016-5-25 初稿</p>
 </blockquote>
 
@@ -219,201 +147,81 @@
 
 <p>引用的实质是使用指向其内存的指针。</p>
 
+<span id="more"></span><!-- more -->
 
-                        
-                      </div>
-                  </div>
-                </a>
-                <div class="read-more clearfix">
-                  <div class="more-left left">
-                   <a href="2016-07-17-arc.html">Read more</a>&nbsp;&nbsp; 
-                    <span class="date">2016/7/17</span>
-                    <span>posted in&nbsp;</span> 
-          				  
-          					    <span class="posted-in"><a href='iOS.html'>iOS</a></span>
-          				  
-          					    <span class="posted-in"><a href='Tech.html'>Tech</a></span>
-          				   
-                  </div>
-                  <div class="more-right right">
-                  <span class="comments">
-                      
-                        <a href="2016-07-17-arc.html#disqus_thread">comments</a>
-                      
+<p>当我们实例化对象时，也就为其分配了相应的内存，再通过指向对象的指针访问这些内存。释放就是把指向对应内存的指针给消除。而其实，对应内存的内容是没有去改变的。直到该内存下一次被使用时，其内容才会被改变。</p>
 
-                       
-                  </span>
-                  </div>
-                </div>
-              </div><!-- article -->
-        
-			<div class="article">
-                <a class="clearlink" href="programminglanguage.html">
-                
-                  <h1>关于编程语言的思考（上）Thinking of the Programming Language (Part 1)</h1>
-                  <div class="a-content">
-                      
-                      <div class="a-content-text">
-                        
-                        	<ul>
-<li>
-<a href="#toc_0">问题 Problems</a>
-</li>
-<li>
-<a href="#toc_1">什么是编程语言？What is programming language?</a>
-</li>
-<li>
-<a href="#toc_2">语言类型 What&#39;s the type of programming languages?</a>
-</li>
-<li>
-<a href="#toc_3">语言的基本组成要素是什么？What’s the core foundations of programming language？</a>
-<ul>
-<li>
-<a href="#toc_4">过程 process</a>
-</li>
-<li>
-<a href="#toc_5">面向对象 object-oriented</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="#toc_6">Reference:</a>
-</li>
-</ul>
+<p>什么是内存？计算机内存，是数据存储的地方。计算机存储存在着一种层次结构，如同三角型。因为越快的越贵，越大的越便宜，越大的也越慢。每一个内存都有其对应的地址。如果你学过操作系统，还应该知道，因为虚拟机的原因，程序使用的是虚拟内存，需要进行转换之后，得到实际的物理内存。</p>
 
+<p>什么是指针？指针存储对象所在的内存地址。比如，寻宝图，你到达A地之后，A地会有指向B地的对应消息。这个消息就是指针。</p></li>
+<li><p>什么是引用计数？<br/>
+引用计数，是当一个对象A使用另一对象B时，对象B的引用数会加一。当对象B没有引用之后，便会释放。</p></li>
+<li><p>什么是自动引用计数？</p>
 
+<p>自动引用计数，即当对象被引用之后，会自动对其引用数加一；解除引用之后，会自动减一；没有引用之后，会自动释放。</p></li>
+<li><p>为什么需要自动引用计数？方便内存管理。</p></li>
+<li><p>什么时候不能使用？对于一些底层的类。</p></li>
+<li><p>存在着什么样的弊端？循环引用。<br/>
+循环引用，当A对象持有(引用)B对象，B对象持有A对象，此时彼此都在等待对方，导致内存无法释放。 </p>
 
-                        
-                      </div>
-                  </div>
-                </a>
-                <div class="read-more clearfix">
-                  <div class="more-left left">
-                   <a href="programminglanguage.html">Read more</a>&nbsp;&nbsp; 
-                    <span class="date">2016/6/27</span>
-                    <span>posted in&nbsp;</span> 
-          				  
-          					    <span class="posted-in"><a href='Tech.html'>Tech</a></span>
-          				   
-                  </div>
-                  <div class="more-right right">
-                  <span class="comments">
-                      
-                        <a href="programminglanguage.html#disqus_thread">comments</a>
-                      
+<p>如何解决？狭路相逢，要么有人仲裁，要么一方示弱。你可以手动解决，或者只将其中一方声明为weak引用。</p>
 
-                       
-                  </span>
-                  </div>
-                </div>
-              </div><!-- article -->
-        
-			<div class="article">
-                <a class="clearlink" href="2016-06-10-RM.html">
-                
-                  <h1>Mac快速远程控制Windows电脑桌面</h1>
-                  <div class="a-content">
-                      
-		                  <div class="a-content-img">
-                      		<img src="media/14655493510316/Chrome.png" />
-                      	  </div>
-		              
-                      <div class="a-content-text">
-                        
-                        	<p>我个人在学校使用两台电脑，一台MacBook Air，一台Acer。每次同时开启使用时，总是很不习惯，一直来回切换控制。想着，如果能直接在Mac上控制Windows桌面，那么能省去不少麻烦。</p>
+<p>你可以通过定义类之间的关系为弱引用(weak)或者无主引用(unwoned)，以此替代强引用，从而解决循环强引用的问题。</p></li>
+<li><p>其他语言中是如何做的呢？<br/>
+Java中采用的是垃圾回收机制(Garbage Collection, GC)。垃圾回收机制的基本原理是建立一棵树。</p></li>
+</ol>
 
-<p>最开始选择Windows Desktop Remote ，总是提示连接未成功。然后尝试VNC Viewer，依旧未果。最后选择了，Google Chrome的远程桌面插件。</p>
+<p>GC也有不好的地方，对于实时的应用程序效果就不理想，因为你不知道CG会在什么时候发生。影响系统性能。</p>
 
+<blockquote>
+<p>Garbage collection does have its own problems. Languages like Java and Ruby aren’t as suited to <code>real-time applications</code> where timing is critical. In these languages you never know when garbage collection will occur. Of course there is research into these problems to solve this issue for real-time systems but in general C++ is probably a better choice for real-time applications. <br/>
+——《Programming Language》</p>
+</blockquote>
 
-                        
-                      </div>
-                  </div>
-                </a>
-                <div class="read-more clearfix">
-                  <div class="more-left left">
-                   <a href="2016-06-10-RM.html">Read more</a>&nbsp;&nbsp; 
-                    <span class="date">2016/6/10</span>
-                    <span>posted in&nbsp;</span> 
-          				  
-          					    <span class="posted-in"><a href='Tech.html'>Tech</a></span>
-          				  
-          					    <span class="posted-in"><a href='Tip.html'>Tip</a></span>
-          				   
-                  </div>
-                  <div class="more-right right">
-                  <span class="comments">
-                      
-                        <a href="2016-06-10-RM.html#disqus_thread">comments</a>
-                      
+<p>看编译原理第七章运行时环境，很多东西都讲了的。</p>
 
-                       
-                  </span>
-                  </div>
-                </div>
-              </div><!-- article -->
-        
-			<div class="article">
-                <a class="clearlink" href="2016-06-05-connectRaspberryPi.html">
-                
-                  <div class="f-img"><img src="media/14650561718675/Pi_2_Model_B.png" /></div>
-                
-                  <h1>校园网无路由器无显示器情况下使用树莓派</h1>
-                  <div class="a-content">
-                      
-                      <div class="a-content-text">
-                        
-                        	<p>就如标题所言，我们的处境很艰难。</p>
+<p>突然意识到，很多博客，不过是书籍的个人阐述，不如自己读书。</p>
 
-<p>想玩树莓派，但是没有额外的显示器。<br/>
-还是在校园网的环境下，无法通过路由器查看树莓派IP地址。</p>
+      </div>
+    
+     <br>
 
+      <div class="cc-license">
+          作者「<a href="azureyu.com/" rel="author" class="pjax">AzureYu</a>」于  <span class="date">2016/7/17</span> 更新<a href="2016-07-17-arc.html">本文</a><br>
+                  自由转载-非商用-非衍生-保持署名 | <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh" target="_blank" rel="nofollow">BY-NC-SA</a>
+      </div>
 
-                        
-                      </div>
-                  </div>
-                </a>
-                <div class="read-more clearfix">
-                  <div class="more-left left">
-                   <a href="2016-06-05-connectRaspberryPi.html">Read more</a>&nbsp;&nbsp; 
-                    <span class="date">2016/6/5</span>
-                    <span>posted in&nbsp;</span> 
-          				  
-          					    <span class="posted-in"><a href='Tech.html'>Tech</a></span>
-          				  
-          					    <span class="posted-in"><a href='Tip.html'>Tip</a></span>
-          				   
-                  </div>
-                  <div class="more-right right">
-                  <span class="comments">
-                      
-                        <a href="2016-06-05-connectRaspberryPi.html#disqus_thread">comments</a>
-                      
+      <div class="row">
+        <div class="large-6 columns">
+        <p class="text-left" style="padding:15px 0px;">
+      
+          <a href="14711002551177.html" 
+          title="Previous Post: Technology Biscuit">&laquo; Technology Biscuit</a>
+      
+        </p>
+        </div>
+        <div class="large-6 columns">
+      <p class="text-right" style="padding:15px 0px;">
+      
+          <a  href="programminglanguage.html" 
+          title="Next Post: 关于编程语言的思考（上）Thinking of the Programming Language (Part 1)">关于编程语言的思考（上）Thinking of the Programming Language (Part 1) &raquo;</a>
+      
+      </p>
+        </div>
+      </div>
+      <div class="comments-wrap">
+        <div class="share-comments">
+          
 
-                       
-                  </span>
-                  </div>
-                </div>
-              </div><!-- article -->
-        
-              
+          
+            <div id="disqus_thread"></div>
+          
 
-
-			<div class="row">
-			  <div class="large-6 columns">
-			  <p class="text-left" style="padding-top:25px;">
-			   
-			  </p>
-			  </div>
-			  <div class="large-6 columns">
-			<p class="text-right" style="padding-top:25px;">
-			 <a href="all_1.html">&raquo; Next Page</a> 
-			</p>
-			  </div>
-			</div>
-		</div>
-	</div><!-- large 8 -->
-
- <div class="large-4 medium-4 columns">
+          
+        </div>
+      </div>
+    </div><!-- article-wrap -->
+  </div><!-- large 8 --> <div class="large-4 medium-4 columns">
   <div class="hide-for-small">
     <div id="sidebar" class="sidebar">
           <div id="site-info" class="site-info">
